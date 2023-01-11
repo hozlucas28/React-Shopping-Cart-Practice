@@ -31,8 +31,7 @@
     Summary
 </h2>
 <p>
-    This is a practice about an app made with <a href="https://reactjs.org/" target="_blank">React</a> of a shopping cart, made with technologies like: HTML, CSS and JavaScript.
-    The application is a product section of a web page where you can get add products to your shopping cart. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to made my code be more 'prettier'.
+    This is a practice about an app made with <a href="https://reactjs.org/" target="_blank">React</a> of a shopping cart. The application is a product section of a web page where you add products to your shopping cart. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to made my code be more 'prettier'.
 </p>
 
 <h2>
@@ -64,13 +63,6 @@
 </h2>
 <p>
     Clone the repository, install <a href="https://nodejs.org/es/" target="_blank">Node.js</a> (runtime environment) and use <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (code editor). Then run command <code>npm install</code> to install all packages, necessary for a React app, and run command <code>npm start</code>. Done, now you can test it in a development server.
-</p>
-
-<p>
-    <i>
-        <strong>• Optional:</strong>
-        Run command <code>npm install</code> to install all packages used for make a clean code, like Prettier and Husky for pre-commits.
-    </i>
 </p>
 
 <h2>
@@ -106,7 +98,7 @@
     Acknowledgments
 </h2>
 <p>
-    Thanks to <a href="https://www.udemy.com/user/nicolas-schurmann/" target="_blank">Nicolas Schurmann</a> teacher to made the <a href="https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/" target="_blank">React course</a>, and to teach me how to made this project.
+    Thanks to <a href="https://www.udemy.com/user/nicolas-schurmann/" target="_blank">Nicolas Schurmann</a> teacher to teach me how to made this project.
 </p>
 
 <h2>
