@@ -18,7 +18,7 @@ class Products extends Component {
 
 		return (
 			<div style={styles.products}>
-				{products.map((product) => (
+				{products.map(product => (
 					<Product
 						product={product}
 						addToCart={addToCart}

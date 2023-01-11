@@ -34,7 +34,7 @@ class CartDetails extends Component {
 		return (
 			<div style={styles.cartDetails}>
 				<ul style={styles.ul}>
-					{cart.map((x) => (
+					{cart.map(x => (
 						<li
 							key={x.name}
 							style={styles.li}

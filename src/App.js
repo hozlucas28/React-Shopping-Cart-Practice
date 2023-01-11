@@ -40,11 +40,13 @@ class App extends Component {
 	};
 
 	// Añadir productos al carrito
-	addToCart = (product) => {
+	addToCart = product => {
 		const { cart } = this.state;
 
-		if (cart.find((x) => x.name === product.name)) {
-			const newCart = cart.map((x) => (x.name === product.name ? { ...x, amount: x.amount + 1 } : x));
+		if (cart.find(x => x.name === product.name)) {
+			const newCart = cart.map(x =>
+				x.name === product.name ? { ...x, amount: x.amount + 1 } : x
+			);
 			return this.setState({ cart: newCart });
 		}
 

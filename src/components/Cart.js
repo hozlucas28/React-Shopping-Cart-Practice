@@ -29,7 +29,9 @@ class Cart extends Component {
 
 		return (
 			<div>
-				<span style={styles.bubble}>{amount !== 0 ? <BubbleAlert amount={amount} /> : null}</span>
+				<span style={styles.bubble}>
+					{amount !== 0 ? <BubbleAlert amount={amount} /> : null}
+				</span>
 				<button
 					style={styles.cart}
 					onClick={showCart}
