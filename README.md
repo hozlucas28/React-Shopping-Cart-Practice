@@ -82,7 +82,7 @@
 <p>
     <ul>    
         <li>
-            <a href="https://github.com/hozlucas28/React-Course-2023" target="_blank">Repository of React course</a>
+            <a href="https://github.com/hozlucas28/React-Course-I-2023" target="_blank">Repository of React course</a>
         </li>
     </ul>
 </p>
