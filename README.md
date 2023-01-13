@@ -31,7 +31,7 @@
     Summary
 </h2>
 <p>
-    This is a practice about an app made with <a href="https://reactjs.org/" target="_blank">React</a> of a shopping cart. The application is a product section of a web page where you add products to your shopping cart. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to made my code be more 'prettier'.
+    This is a practice about an app made with <a href="https://reactjs.org/" target="_blank">React</a> of a shopping cart. The application is a product section of a web page where you add products to your shopping cart. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to make my code be more 'prettier'.
 </p>
 
 <h2>
@@ -104,7 +104,7 @@
     Acknowledgments
 </h2>
 <p>
-    Thanks to <a href="https://www.udemy.com/user/nicolas-schurmann/" target="_blank">Nicolas Schurmann</a> teacher to teach me how to made this project.
+    Thanks to <a href="https://www.udemy.com/user/nicolas-schurmann/" target="_blank">Nicolas Schurmann</a> teacher to teach me how to make this project.
 </p>
 
 <h2>
