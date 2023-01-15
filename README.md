@@ -40,18 +40,18 @@
 <p>
     <ul>
         <li>
-            Dynamic Bubble - Alert
-            <ul>
-                <li>
-                    If there is more than nine elements in the shopping cart, it will show '+9' as an alert.
-                </li>
-            </ul>
-        </li>
-        <li>
             Shopping Cart - Button
             <ul>
                 <li>
                     It shows a list with products that you added to it.
+                </li>
+            </ul>
+        </li>
+        <li>
+            Dynamic Bubble - Alert
+            <ul>
+                <li>
+                    If there is more than nine elements in the shopping cart, it will show '+9' as an alert.
                 </li>
             </ul>
         </li>
