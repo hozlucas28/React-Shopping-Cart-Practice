@@ -18,13 +18,13 @@
 </p>
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=A_bNETpLR-U" target="_blank">
+    <a href="https://react-shopping-cart-practice-2023.vercel.app/" target="_blank">
         <img src="https://user-images.githubusercontent.com/88015479/211897494-ca65e938-ab13-42eb-b83e-7bf5979da6fe.png" width="800">
     </a>
 </p>
 
 <p align="center">
-    <strong>(click on image to see a video preview)</strong>
+    <strong>(click on image to get a live test or watch a <a href="https://www.youtube.com/watch?v=A_bNETpLR-U" target="_blank">video preview</a>)</strong>
 </p>
 
 <h2>
