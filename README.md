@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="https://react-shopping-cart-practice-2023.vercel.app/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/88015479/211897494-ca65e938-ab13-42eb-b83e-7bf5979da6fe.png" width="800">
+        <img src="./.github/preview.png" width="800">
     </a>
 </p>
 
